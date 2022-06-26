@@ -134,7 +134,7 @@ for size in array_sizes:
         mean_file.write(
             f"Assignments variance: {array_variance_assignments}\n")
         mean_file.write(
-            f"Assignments variance: {array_variance_assignments}\n")
+            f"Comparisons variance: {array_variance_comparisons}\n")
         mean_file.write(
             f"Times variance: {array_variance_times}\n\n")
         mean_file.write("\n--------------------------------------------\n")
@@ -153,7 +153,7 @@ for size in array_sizes:
 
 csv_file.close()
 
-with open('times.csv') as times_file:
+with open('times.csv', 'r') as times_file:
     with open('final.csv', 'w') as final_file:
         reader = csv.reader(times_file)
         writer = csv.writer(final_file)
@@ -166,11 +166,10 @@ with open('times.csv') as times_file:
         helping_index = 0
         new_index = 0
 
-        for j in range(0, len(methods)):
-
+        for j in range(0, len(array_sizes)):
             for i in range(0, 51):
                 index = helping_index + new_index
-                for i in range(0, len(methods)):
+                for k in range(0, len(methods)):
 
                     current_row += reader[index]
                     current_row += ['']

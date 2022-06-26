@@ -1,0 +1,364 @@
+Current method of sorting:QS1pL
+Current size:10000
+
+Assignments mean: 235717.36
+Comparisons mean: 462849.2
+Times mean: 0.026310110800006895
+
+Assignments variance: 30577839.1904068
+Assignments variance: 30577839.1904068
+Times variance: 8.08811082141786e-06
+
+
+--------------------------------------------
+Current method of sorting:QS1pM
+Current size:10000
+
+Assignments mean: 241954.3
+Comparisons mean: 485917.6
+Times mean: 0.04465303560000166
+
+Assignments variance: 28724248.69000244
+Assignments variance: 28724248.69000244
+Times variance: 1.0803880419544762e-05
+
+
+--------------------------------------------
+Current method of sorting:QS1pR
+Current size:10000
+
+Assignments mean: 249903.1
+Comparisons mean: 478738.46
+Times mean: 0.031013864140004444
+
+Assignments variance: 42517449.650001526
+Assignments variance: 42517449.650001526
+Times variance: 6.341081759478188e-06
+
+
+--------------------------------------------
+Current method of sorting:QS2pR
+Current size:10000
+
+Assignments mean: 126585.42
+Comparisons mean: 418016.8
+Times mean: 0.02941163729999289
+
+Assignments variance: 10413884.92360115
+Assignments variance: 10413884.92360115
+Times variance: 9.49048459356278e-06
+
+
+--------------------------------------------
+Current method of sorting:QS3pR
+Current size:10000
+
+Assignments mean: 112598.34
+Comparisons mean: 385251.448
+Times mean: 0.02667126167999868
+
+Assignments variance: 6798376.064399719
+Assignments variance: 6798376.064399719
+Times variance: 5.694894765940258e-06
+
+
+--------------------------------------------
+Current method of sorting:QS2pRPre
+Current size:10000
+
+Assignments mean: 184210.74
+Comparisons mean: 619273.9533333334
+Times mean: 0.05867922853999517
+
+Assignments variance: 34103165.27240372
+Assignments variance: 34103165.27240372
+Times variance: 1.8666486722387736e-05
+
+
+--------------------------------------------
+Current method of sorting:QS3pRPre
+Current size:10000
+
+Assignments mean: 181386.94
+Comparisons mean: 786848.6457142857
+Times mean: 0.05661593470000753
+
+Assignments variance: 27526391.056396484
+Assignments variance: 27526391.056396484
+Times variance: 8.614071781344861e-06
+
+
+--------------------------------------------
+Current method of sorting:QS1pL
+Current size:100000
+
+Assignments mean: 2991403.94
+Comparisons mean: 1435118.1375
+Times mean: 0.33394238894000183
+
+Assignments variance: 3969601981.6972656
+Assignments variance: 3969601981.6972656
+Times variance: 7.523553018944085e-05
+
+
+--------------------------------------------
+Current method of sorting:QS1pM
+Current size:100000
+
+Assignments mean: 3035995.74
+Comparisons mean: 1986761.6822222222
+Times mean: 0.5951688368600071
+
+Assignments variance: 2907694458.5507812
+Assignments variance: 2907694458.5507812
+Times variance: 0.019569930755014175
+
+
+--------------------------------------------
+Current method of sorting:QS1pR
+Current size:100000
+
+Assignments mean: 3118838.24
+Comparisons mean: 2384120.846
+Times mean: 0.38089642723999306
+
+Assignments variance: 2775096353.9804688
+Assignments variance: 2775096353.9804688
+Times variance: 3.456320033851101e-05
+
+
+--------------------------------------------
+Current method of sorting:QS2pR
+Current size:100000
+
+Assignments mean: 1548785.12
+Comparisons mean: 2442740.390909091
+Times mean: 0.3491779184199936
+
+Assignments variance: 1090924439.7456055
+Assignments variance: 1090924439.7456055
+Times variance: 9.35790992553781e-05
+
+
+--------------------------------------------
+Current method of sorting:QS3pR
+Current size:100000
+
+Assignments mean: 1338707.66
+Comparisons mean: 2512686.4766666666
+Times mean: 0.33660032243999694
+
+Assignments variance: 553637869.5847168
+Assignments variance: 553637869.5847168
+Times variance: 0.001417505489295548
+
+
+--------------------------------------------
+Current method of sorting:QS2pRPre
+Current size:100000
+
+Assignments mean: 2250824.94
+Comparisons mean: 6616597.115384615
+Times mean: 0.9391086221600062
+
+Assignments variance: 3618304944.6572266
+Assignments variance: 3618304944.6572266
+Times variance: 0.00021311740474072582
+
+
+--------------------------------------------
+Current method of sorting:QS3pRPre
+Current size:100000
+
+Assignments mean: 2191863.74
+Comparisons mean: 10131972.292857142
+Times mean: 0.912703556080005
+
+Assignments variance: 4863549339.991211
+Assignments variance: 4863549339.991211
+Times variance: 0.00035059615176624703
+
+
+--------------------------------------------
+Current method of sorting:QS1pL
+Current size:1000000
+
+Assignments mean: 35866765.74
+Comparisons mean: 14283769.02
+Times mean: 6.737352601600009
+
+Assignments variance: 280144776528.25
+Assignments variance: 280144776528.25
+Times variance: 5.620890451852603
+
+
+--------------------------------------------
+Current method of sorting:QS1pM
+Current size:1000000
+
+Assignments mean: 36569749.82
+Comparisons mean: 18214737.62
+Times mean: 6.993715103820005
+
+Assignments variance: 294449771933.0
+Assignments variance: 294449771933.0
+Times variance: 1.4589247971623251
+
+
+--------------------------------------------
+Current method of sorting:QS1pR
+Current size:1000000
+
+Assignments mean: 37272677.0
+Comparisons mean: 21410310.15882353
+Times mean: 5.73356339877997
+
+Assignments variance: 457436138904.25
+Assignments variance: 457436138904.25
+Times variance: 0.8699099571008517
+
+
+--------------------------------------------
+Current method of sorting:QS2pR
+Current size:1000000
+
+Assignments mean: 18200779.36
+Comparisons mean: 22258955.367777776
+Times mean: 5.036262519220008
+
+Assignments variance: 118382431955.625
+Assignments variance: 118382431955.625
+Times variance: 0.07898922056819657
+
+
+--------------------------------------------
+Current method of sorting:QS3pR
+Current size:1000000
+
+Assignments mean: 15485503.72
+Comparisons mean: 23206291.235789474
+Times mean: 5.132399927079996
+
+Assignments variance: 44708729074.40625
+Assignments variance: 44708729074.40625
+Times variance: 0.11326287464246576
+
+
+--------------------------------------------
+Current method of sorting:QS2pRPre
+Current size:1000000
+
+Assignments mean: 26588743.54
+Comparisons mean: 113952750.594
+Times mean: 21.714060518259977
+
+Assignments variance: 210142895230.875
+Assignments variance: 210142895230.875
+Times variance: 24.043421357345665
+
+
+--------------------------------------------
+Current method of sorting:QS3pRPre
+Current size:1000000
+
+Assignments mean: 25400709.98
+Comparisons mean: 195678980.82857144
+Times mean: 19.76694738165991
+
+Assignments variance: 336728207859.625
+Assignments variance: 336728207859.625
+Times variance: 0.44923355661825326
+
+
+--------------------------------------------
+Current method of sorting:QS1pL
+Current size:10000000
+
+Assignments mean: 421038941.26
+Comparisons mean: 225713712.16181818
+Times mean: 58.01056219243992
+
+Assignments variance: 34098834488160.0
+Assignments variance: 34098834488160.0
+Times variance: 1.2155759965453399
+
+
+--------------------------------------------
+Current method of sorting:QS1pM
+Current size:10000000
+
+Assignments mean: 427146086.86
+Comparisons mean: 255134708.13304347
+Times mean: 76.92838308811992
+
+Assignments variance: 29517174600000.0
+Assignments variance: 29517174600000.0
+Times variance: 1.1801037537215961
+
+
+--------------------------------------------
+Current method of sorting:QS1pR
+Current size:10000000
+
+Assignments mean: 432905957.06
+Comparisons mean: 280064131.2525
+Times mean: 63.7058639528801
+
+Assignments variance: 43632061837056.0
+Assignments variance: 43632061837056.0
+Times variance: 1.6933058512995558
+
+
+--------------------------------------------
+Current method of sorting:QS2pR
+Current size:10000000
+
+Assignments mean: 209190203.68
+Comparisons mean: 286106709.6088
+Times mean: 79.4934379834999
+
+Assignments variance: 7654522373696.0
+Assignments variance: 7654522373696.0
+Times variance: 23.742325585795697
+
+
+--------------------------------------------
+Current method of sorting:QS3pR
+Current size:10000000
+
+Assignments mean: 176138623.28
+Comparisons mean: 293378689.6146154
+Times mean: 73.39853184520041
+
+Assignments variance: 3222084583412.0
+Assignments variance: 3222084583412.0
+Times variance: 6.206718043786168
+
+
+--------------------------------------------
+Current method of sorting:QS2pRPre
+Current size:10000000
+
+Assignments mean: 306239246.6
+Comparisons mean: 2587945010.0792594
+Times mean: 546.4104783613004
+
+Assignments variance: 17675890660272.0
+Assignments variance: 17675890660272.0
+Times variance: 340.17302401410416
+
+
+--------------------------------------------
+Current method of sorting:QS3pRPre
+Current size:10000000
+
+Assignments mean: 291133320.68
+Comparisons mean: 4722461925.466429
+Times mean: 543.4008157549791
+
+Assignments variance: 36396098695584.0
+Assignments variance: 36396098695584.0
+Times variance: 215.05713165790075
+
+
+--------------------------------------------
